@@ -1,6 +1,6 @@
 RU
 Полную папку загрузить не могу так как она очень большая.
-Мод работает на Java Edition 26.2 Fabric
+Мод работает на Java Edition 26.2 Fabric.
 Скоро он пройдет модерацию на Modrinth
 
 # NEO-ai-mod-minecraft-
