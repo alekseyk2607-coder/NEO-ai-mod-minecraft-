@@ -175,7 +175,7 @@ NEO AI Companion — экспериментальный проект, посвя
 
 (описания ссылки будут добавляется со временем, мод будет развиваться и обновлятся следите за репозиторием Github и будущем Modrinth)
 мое портфолио: https://portfolio-nhs.vercel.app/ 
-
+Чтобы добавить API key, нажмите правый ALT в игре.
 
 EN
 I can’t upload the entire folder as it’s very large.
@@ -354,4 +354,4 @@ The main idea behind NEO is simple:
 
 (Link descriptions will be added over time; the mod will be developed and updated – keep an eye on the GitHub repository and future Modrinth updates)
 My portfolio: https://portfolio-nhs.vercel.app/
-
+To add an API key, press the right ALT key whilst in the game.
